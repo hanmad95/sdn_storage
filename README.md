@@ -1,4 +1,3 @@
-# sdn_storage
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 Software Defined Network Storage Project with Jani Mosko, Shivraj Gonde and Sugandh Huthanahally Mohan
